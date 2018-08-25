@@ -1,0 +1,3 @@
+exp_id,rep,weather,start_point,end_point,result,initial_distance,final_distance,final_time,time_out
+1,0,1,138,17,0,102.0835985225537,31.609852679546147,57.3184,57.3184
+2,0,1,140,134,0,210.63723564600028,72.15549104253068,104.6368,104.6368

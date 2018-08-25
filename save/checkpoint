@@ -1,0 +1,3 @@
+model_checkpoint_path: "car_60.ckpt"
+all_model_checkpoint_paths: "car_50.ckpt"
+all_model_checkpoint_paths: "car_60.ckpt"
